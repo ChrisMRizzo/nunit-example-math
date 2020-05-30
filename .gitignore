@@ -5,3 +5,5 @@
 /BasicTextCalculator/bin
 /BasicTextCalculator/obj
 /.vs/BasicTextCalculator/v16
+/BasicTextCalculatorTests/bin/Debug/netcoreapp2.1
+/BasicTextCalculatorTests/obj

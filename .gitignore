@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BasicTextCalculator/bin
+/BasicTextCalculator/obj
+/.vs/BasicTextCalculator/v16
